@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Repositories\personne;
+namespace App\Repositories\Personnes;
 
 use App\Repositories\BaseRepositorie;
 use App\Models\Formateur;
